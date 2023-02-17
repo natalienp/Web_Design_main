@@ -1,0 +1,29 @@
+body { background-color:#178196;}
+
+img { display: block;
+    margin: 0 auto;
+    width:50%;}
+
+#container {background-color: #93C3C3;}
+
+nav {background-color:#CFD8BB;
+padding: 2px 0;
+text-align: center;}
+
+
+nav ul {padding:0;
+list-style-type:none;
+}
+
+nav li {display: inline-block;}
+
+nav li a {display: block;
+background-color: #A98E7B 0;
+width: 200px;
+height:60px;
+line-height: 60px;
+font-size: .4m;
+font-weight: bold;
+color: #1F322C;
+text-decoration:none;
+border: 2px solid;}
