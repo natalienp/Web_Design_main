@@ -1,8 +1,9 @@
-body { background-color:#178196;}
+body {background-color:#178196;}
 
 img { display: block;
-    margin: 0 auto;
-    width:50%;}
+ margin: 0 auto;
+ width:40%;}
+
 
 #container {background-color: #93C3C3;}
 
@@ -10,6 +11,7 @@ nav {background-color:#CFD8BB;
 padding: 2px 0;
 text-align: center;}
 
+header {text-align: center;}
 
 nav ul {padding:0;
 list-style-type:none;
@@ -18,13 +20,50 @@ list-style-type:none;
 nav li {display: inline-block;}
 
 nav li a {display: block;
-background-color: #A98E7B 0;
+background-color: #A98E7B;
 width: 200px;
 height:60px;
 line-height: 60px;
-font-size: .4m;
+font-size: 1.5m;
 font-weight: bold;
 color: #1F322C;
 text-decoration:none;
 border: 2px solid;
-}
+margin:0 15px;}
+
+nav li a:hover { background-color:#3A633B;}
+
+main {display: flex;}
+
+section, aside{ border: 2px solid #3D7572;
+margin: 20px;
+padding:20 px;}
+
+section {width: 80%;}
+
+aside { width: 30%; }
+
+#lower_area { display: flex;}
+
+.col {border: 2px solid #3D7572; 
+margin: 10px;
+padding: 10px;}
+
+footer { background-color:#A98E7B;
+text-align: center;
+padding: 50px 0;
+color:#3A633B;
+font-weight: bold;}
+
+.button {display:block;
+width: 100px;
+height: 20px;
+background-color: #1F322C;
+color: #CFD8BB;
+text-decoration: #3A633B;
+margin-top: 10px;
+padding: 10px;
+text-align: center;}
+
+.button:hover {background-color: #3D7572; 
+border-color: #3A633B; }
