@@ -3,7 +3,7 @@ body {background-color:#178196;}
 img{display:block;
 margin:30px auto;
 width:250px auto ;
-max-width: 300px;} 
+max-width: 200px;} 
 
 #container {background-color: #93C3C3;
 width: 100%;
@@ -32,7 +32,8 @@ font-weight: bold;
 color: #1F322C;
 text-decoration:none;
 border: 2px solid;
-margin:0 15px;}
+margin:0 15px;
+border-radius: 20px;}
 
 nav li a:hover { background-color:#3A633B;}
 
@@ -52,15 +53,14 @@ aside { width: 40%;}
 
 .col { border: 2px solid #3D7572; 
 margin: 10px;
-padding: 10px;
-}
+padding: 10px;}
 
 footer { background-color:#A98E7B;
 text-align: center;
 padding: 10px;
 color:#3A633B;
 font-weight: bold;
-}
+border-radius: 20px;}
 
 
 .button { display:block;
