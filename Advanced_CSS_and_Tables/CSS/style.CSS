@@ -17,12 +17,11 @@ text-align: center;}
 header {text-align: center;}
 
 nav ul {padding:0;
-list-style-type:none;
-}
+list-style-type:none;}
 
 nav li {display: inline-block;}
 
-nav li a {display: block;
+nav li a {display:block;
 background-color: #A98E7B;
 width: 200px;
 height:60px;
