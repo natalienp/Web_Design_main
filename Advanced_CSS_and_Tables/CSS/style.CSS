@@ -44,10 +44,13 @@ padding: 10px;}
 
 section { width: 50%;}
 
-aside { width: 40%;}
+aside { width: 50%;}
 
 .single_page{ width:100%;}
 
+.trailer{width: 50%;}
+
+.aside{width: 50%;}
 
 #lower_area { display: flex;}
 
