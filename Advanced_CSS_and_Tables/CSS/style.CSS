@@ -1,6 +1,6 @@
 body {background-color:#178196;}
 
-img{display:block;
+img {display:block;
 margin:30px auto;
 width:250px auto ;
 max-width: 200px;} 
@@ -49,6 +49,11 @@ aside { width: 40%;}
 .single_page{ width:100%;}
 
 #lower_area { display: flex;}
+
+#main_image_resize {width: 250px;
+}
+
+#image_resize1 {width: 800px;}
 
 .col { border: 2px solid #3D7572; 
 margin: 10px;
