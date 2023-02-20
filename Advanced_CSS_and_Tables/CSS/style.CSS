@@ -2,7 +2,7 @@ body {background-color:#178196;}
 
 img {display:block;
 margin:30px auto;
-width:20px auto;
+width:auto;
 max-width: 200px;} 
 
 #container {background-color: #93C3C3;
@@ -26,7 +26,7 @@ background-color: #A98E7B;
 width: 200px;
 height:60px;
 line-height: 60px;
-font-size: 2m;
+font-size: large;
 font-weight: bold;
 color: #1F322C;
 text-decoration:none;
