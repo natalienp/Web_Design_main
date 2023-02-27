@@ -1,33 +1,66 @@
-img {width: 20%;}
+img {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;} 
 
-body {background-color:#5E2623;}
+.img1 {width: 70%;
+height: 50%;}
 
-nav {background-color:#EBCED3;
+
+
+h1{ font-family: fantasy;
+font-size: xx-large; font-weight: bold;}
+h3{text-align: center;}
+
+h2,h3,h4,h5,h6 {font-size: x-large;}
+ h2{text-align: center;}
+ul{ text-align: center;font-size: larger;}
+
+body {background-color:rgb(75, 47, 47);}
+
+nav {background-color:#2f0914;
 padding: 2px 0;
 text-align: center;
 border-radius: 20px;}
+
+p{font-size: large;}
 
 nav ul {padding:0;
 list-style-type:none;}
 
 nav li {display: inline-block;}
+
+section, aside{ border: 2px solid #000000;
+margin: 10px;
+padding: 10px;}
+
+.button { display:block;
+width: 100px;
+height: 20px;
+background-color: #41282b;
+color: #be9393;
+text-decoration: #000000; 
+margin-top: 10px;
+padding: 10px;
+text-align: center;
+border-radius: 20px;}
         
 nav li a {display: block;
-background-color: #EDE4E4;
+background-color: #6a3232;
 width: 200px;
 height:60px;
 line-height: 60px;
 font-size: 1.5m;
 font-weight: bold;
-color: #1F322C;
+color: #be9393;
 text-decoration:none;
 border: 2px solid;
 margin:0 15px;
 border-radius: 20px;}
 
-nav li a:hover { background-color:#C4ADB1;}
+nav li a:hover { background-color:#562533;}
 
-footer { background-color:#F5DDD9;
+footer { background-color:#731c35;
 text-align: center;
 padding: 10px;
 color:black;
@@ -37,9 +70,17 @@ border-radius: 20px;}
 h1 {text-align: center;}
 
 
-#container {background-color:#F8FBFC ;
+#container {background-color:#712b2b;
 width: 100%;
 margin: 20px auto;
-border: 4px solid #FFE1DE;
+border: 4px solid 331730;
 border-radius: 20px;}
 
+.col { border: 2px solid #000000; 
+margin: 10px;
+padding: 10px;}
+
+#lower_area { display: flex;}
+
+
+    
