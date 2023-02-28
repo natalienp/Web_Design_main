@@ -1,7 +1,7 @@
 img {display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 40%;} 
+margin-left: auto;
+margin-right: auto;
+width: 30%;} 
 
 .img1 {width: 70%;
 height: 50%;}
@@ -28,9 +28,10 @@ list-style-type:none;}
 
 nav li {display: inline-block;}
 
-section, aside{ border: 2px solid #000000;
+section{ border: 2px solid #000000;
 margin: 10px;
-padding: 10px;}
+padding: 10px;
+}
 
 .button { display:block;
 width: 100px;
@@ -77,9 +78,11 @@ border-radius: 20px;}
 
 .col { border: 2px solid #000000; 
 margin: 10px;
-padding: 10px;}
+padding: 10px;
+width: 33.3%;
+}
 
-#lower_area { display: flex;}
+#lower_area { display:flex; text-align: center;}
 
 .column {
 float: left;
