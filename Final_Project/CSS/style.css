@@ -90,10 +90,10 @@ padding: 5px;}
 
 .row::after {content: "";
 clear: both;
-display: table;
+display: block;
 }
 
 .col img {width: 70%;}
 
 iframe { display: block; margin: 0 auto;}
-    
+
