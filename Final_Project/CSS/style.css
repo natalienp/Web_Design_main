@@ -94,4 +94,6 @@ display: table;
 }
 
 .col img {width: 70%;}
+
+iframe { display: block; margin: 0 auto;}
     
