@@ -3,8 +3,7 @@ margin-left: auto;
 margin-right: auto;
 width: 30%;} 
 
-.img1 {width: 70%;
-height: 50%;}
+
 
 h1{ font-family: fantasy;
 font-size: xx-large; font-weight: bold;}
@@ -93,4 +92,6 @@ padding: 5px;}
 clear: both;
 display: table;
 }
+
+.col img {width: 70%;}
     
