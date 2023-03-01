@@ -97,3 +97,4 @@ display: block;
 
 iframe { display: block; margin: 0 auto;}
 
+table, th, td {border:2px solid black; margin: 0 auto;}
