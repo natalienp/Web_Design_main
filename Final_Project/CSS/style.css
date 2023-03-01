@@ -89,9 +89,10 @@ width: 38%;
 padding: 5px;}
 
 .row::after {content: "";
-clear: both;
-display: block;
-}
+    clear: both;
+    display: block;
+    
+    }
 
 .col img {width: 70%;}
 
